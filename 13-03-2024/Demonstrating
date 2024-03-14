@@ -8,7 +8,7 @@ public class Main {
         double doubleValue = floatValue;
 
 
-        double doubleVal = 1234.5678;
+        double doubleVal = 1234.5678; 
         float floatVal = (float) doubleVal;
 
         long longVal = 9876543210L;
