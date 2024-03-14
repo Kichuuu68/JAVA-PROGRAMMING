@@ -18,5 +18,5 @@ public class Shiftvalue {
                 System.out.println("Shifted left: " + shiftedValue);
             }
         }
-    }
+    } 
 }
