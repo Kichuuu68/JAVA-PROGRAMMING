@@ -13,4 +13,4 @@ public class Missing
         int missingNumber = expectedSum - actualSum;
         System.out.println(missingNumber);
     }
-}
+} 
