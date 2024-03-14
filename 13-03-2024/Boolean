@@ -14,7 +14,7 @@ public class Boolean {
         boolean booleanVar = true;
 
         System.out.println("Byte: " + byteVar);
-        System.out.println("Short: " + shortVar);
+        System.out.println("Short: " + shortVar);  
         System.out.println("Int: " + intVar);
         System.out.println("Long: " + longVar);
         System.out.println("Float: " + floatVar);
